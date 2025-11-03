@@ -4,6 +4,7 @@
 |2021.03~|연세대학교|응용통계학과|재학|
 |2024.07~2024.12|Yonsei Sports Analytics Lab(YSAL) 5기|Team Baseball|팀원|
 |2025.01~2025.06|Yonsei Sports Analytics Lab(YSAL) 6기|Team Baseball|팀장|
+|2025.07~|연세대학교 빅데이터 학회(YBIGTA) 27기|Team Data Engineering|팀원|
 
 # Project
 |프로젝트명|역할|비고|Link|
